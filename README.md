@@ -2,9 +2,6 @@
 
 This project is the analysis of taxi trips data ,uber rides data and weather data from 2009 to 2015.   
 Our work is divided in four parts: data pre-processing, data storing, understanding the data and visualizing the data.  
-Considering the high run times of the data pre-processing part we offer two ways of running our project:   
--From scratch by running the jupyter notebook from the beginning.  
--Using pre-sampled taxi data contained in the csv file "final_csv.csv" that we decided to attach we this project just in case. Should you use to run the project this way you should start from the part labeled : "Part 1: Data Preprocessing - creating dataframes and cleaning data."  
 
 # Group Information and work share  
 
