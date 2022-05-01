@@ -1,0 +1,11 @@
+List of packages that were pip installed for this project:
+-requests
+-bs4 
+-pandas 
+-numpy 
+-math
+-matplotlib.pyplot 
+-sqlalchemy 
+-seaborn
+-glob
+-os
